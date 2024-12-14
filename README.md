@@ -41,41 +41,40 @@
 
 #### Database
 
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=Sqlite&logoColor=A8B9CC)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-the-badge&logo=Microsoft%20sql%20server&logoColor=white)
 
-#### Herramientas & Tecnolofias
+#### Herramientas & Tecnologias
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![git hub](https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white)
-![google sheets](https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-the-badge&logo=markdown&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-the-badge&logo=microsoft-excel&logoColor=white)
+![git hub](https://img.shields.io/badge/Github-%23181717.svg?style=flat&logo=Github&logoColor=white)
+![google sheets](https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=flat&logo=Google%20sheets&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-the-badge&logo=Markdown&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-the-badge&logo=Microsoft-powerpoint&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-the-badge&logo=Microsoft-excel&logoColor=white)
 
 <!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
 #### Diseño
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-the-badge&logo=Figma&logoColor=white)
 
 #### IDEs
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-the-badge&logo=Jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-the-badge&logo=Visual-studio-code&logoColor=white)
 
 #### Análisis
 
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-the-badge&logo=scikit-learn&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=Numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=Pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-the-badge&logo=Plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-the-badge&logo=Scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
 
 #### Sistema operarivo
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-the-badge&logo=Windows&logoColor=white)
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Mis Estadísticas 
 

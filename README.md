@@ -39,9 +39,8 @@
 #### Languajes
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
-#### Database
+#### Base de datos
 
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=Sqlite&logoColor=A8B9CC)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-the-badge&logo=Microsoft%20sql%20server&logoColor=white)
 
 #### Herramientas & Tecnologias

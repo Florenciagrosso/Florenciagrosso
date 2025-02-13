@@ -25,7 +25,7 @@
 <br>
 
 - :school: Yo soy una  `Junior` en [Henry]([https://www.soyhenry.com/]).
-- :trophy: Mi única experiencia de trabajo hasta la fecha en Zanella en analista de datos, `logré aumentar la eficiencia de producción` directamente un `45%` al implementar dashboard propio y crear por mi propia iniciativa base de datos desde 0.
+- :trophy: Mi única experiencia de trabajo hasta la fecha en Zanella en analista de datos, `logré aumentar la eficiencia de producción` directamente un `15%` al implementar dashboard propio y crear por mi propia iniciativa base de datos desde 0.
 - :technologist: Me apasiona utilizar el software, especialmente las herramientas de análisis de datos, para encontrar soluciones a cualquier `Problema`.
 - :nerd_face: Crear `visualizaciones impactantes` con Power BI .
 - :thinking: `Aprender` nuevas tecnologías y herramientas .
